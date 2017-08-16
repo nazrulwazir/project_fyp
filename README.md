@@ -13,3 +13,6 @@
 <img src="https://github.com/nazrulwazir/project_fyp/blob/master/project/4.png" width="400">
 <img src="https://github.com/nazrulwazir/project_fyp/blob/master/project/5.png" width="400">
 <img src="https://github.com/nazrulwazir/project_fyp/blob/master/project/6.png" width="400">
+<img src="https://github.com/nazrulwazir/project_fyp/blob/master/project/7.png" width="400">
+<img src="https://github.com/nazrulwazir/project_fyp/blob/master/project/8.png" width="400">
+<img src="https://github.com/nazrulwazir/project_fyp/blob/master/project/9.png" width="400">
